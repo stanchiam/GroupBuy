@@ -1,13 +1,13 @@
-State: Running
-Themes: 
-Modules: 
-Name: Default
-DataProvider: SqlCe
-DataConnectionString: null
-DataTablePrefix: null
-RequestUrlHost: null
-RequestUrlPrefix: null
-EncryptionAlgorithm: AES
-EncryptionKey: E397FDFFE0B4EFAE628621046CF852DDCFE4DB24C0D517D45ADE5CD17E85D1E9
-HashAlgorithm: HMACSHA256
-HashKey: 14EAE40103F1BAA46F71EF8105AF25DC2E75FFD6A340B4D598D65DD3A6F0EB75787ABA9758B56AA8D0B7E1487894589D759E49AE32F311464111E853D4AF8451
+State:  Running
+Themes:  
+Modules:  
+Name:  Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=2ee88464-a792-47b4-a445-a40000d0f8f7.sqlserver.sequelizer.com;Initial Catalog=db2ee88464a79247b4a445a40000d0f8f7;User ID=fckgubjifvyafith;Password=cm57dtiumG87HqxYrvzbb4CDXHXfaLhbc4Esxn534ecpexU4BgRX3TrgQyiBCcuG
+DataTablePrefix:  null
+RequestUrlHost:  null
+RequestUrlPrefix:  null
+EncryptionAlgorithm:  AES
+EncryptionKey:  E397FDFFE0B4EFAE628621046CF852DDCFE4DB24C0D517D45ADE5CD17E85D1E9
+HashAlgorithm:  HMACSHA256
+HashKey:  14EAE40103F1BAA46F71EF8105AF25DC2E75FFD6A340B4D598D65DD3A6F0EB75787ABA9758B56AA8D0B7E1487894589D759E49AE32F311464111E853D4AF8451
